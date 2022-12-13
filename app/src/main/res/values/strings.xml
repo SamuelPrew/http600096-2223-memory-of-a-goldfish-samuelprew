@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Memory of a Goldfish 600096-2223</string>
+    <string name="app_name">Memory of a Goldfish 600096_2223</string>
+    <string name="title_memory">Memory of a Goldfish</string>
+    <string name="menu_option_newgame">New Game</string>
 </resources>
